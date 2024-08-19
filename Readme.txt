@@ -1,0 +1,1 @@
+For this game I created an Island. Along the Island there are beach balls that the player has to collect. Assets are premade.
